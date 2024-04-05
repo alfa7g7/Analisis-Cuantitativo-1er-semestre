@@ -10,7 +10,7 @@ TIC 60153 – Análisis Cuantitativo
 - Cristian Bolivar
 - Kenny Rodriguez
 - Juan David Borja
-- Fabian Salazar
+- Fabian Salazar Figueroa
 
 ## Examen 1 (50 %): Modelo de Regresión Lineal 
 Profesor: Santiago Ortiz - Henry Velasco 
