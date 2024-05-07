@@ -16,5 +16,10 @@ TIC 60153 – Análisis Cuantitativo
 Profesor: Santiago Ortiz - Henry Velasco 
 Grupo: 01 2024
 
+## Examen 2 (50 %): Modelos de Regularización 
+Profesor: Santiago Ortiz - Henry Velasco 
+Grupo: 01 2024
+
+
 Notas: Todas las respuestas, gráficas, tablas y operaciones deben ser debidamente justificadas. - La información que sea obtenida de alguna fuente debe ser citada y referenciada en el documento a entregar. 
 
